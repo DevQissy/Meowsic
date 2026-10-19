@@ -1,98 +1,86 @@
 # Meowsic
 
-**A modern Android music player with powerful audio controls and a clean listening experience.**
+**Your music, your sound.**
 
-Meowsic is an Android music player built to give you more control over your local music library, playback, and sound.
+Meowsic is an Android music player developed by Dev Qissy, combining music library management, customizable audio effects, and playback controls in one application.
 
 ## Features
 
 ### Music Library
-- Browse and organize music by folders and albums.
 - Create and manage playlists.
-- Save your favorite tracks for quick access.
+- Keep track of favorite songs.
+- Browse and organize music by folders and albums.
 
-### Audio Enhancement
-- Built-in equalizer with preset profiles.
-- Manual equalizer controls for personalized sound.
+### Audio Effects
+- Equalizer presets and manual equalizer controls.
 - Bass booster.
 - Spatial audio enhancement.
 - Audio amplifier.
-- Nine echo modes for different listening effects.
+- Nine echo modes.
 
-### Playback Controls
-- Sleep timer to stop playback automatically.
+### Playback
+- Sleep timer.
 - Adjustable playback speed.
-- Optional media navigation using the device's volume buttons.
-- Long-press volume button shortcuts for previous and next tracks.
+- Optional volume-button media controls, including shortcuts for previous and next tracks.
 
-### Designed for Everyday Listening
-Meowsic combines music organization, playback controls, and audio customization in one Android application.
+## Technical Information
 
-## Screenshots
-
-Screenshots will be added here.
+| Property | Value |
+|---|---|
+| Application ID | `com.devqissy.meowsic` |
+| Version | 1.1 |
+| Version Code | 3 |
+| Minimum Android | Android 9 (API 28) |
+| Target SDK | API 36 |
+| Language | Kotlin |
+| UI Framework | Jetpack Compose |
+| Developer | Dev Qissy |
 
 ## Installation
+
+### Install a Release APK
+
+1. Visit the [GitHub Releases](https://github.com/DevQissy/Meowsic/releases) page.
+2. Download the APK from a published release.
+3. Open it on your Android device and follow the installation prompts.
+
+Only install APKs from sources you trust.
 
 ### Build from Source
 
 1. Clone or download this repository.
 2. Open the project in Android Studio.
-3. Allow Gradle to sync and download the required dependencies.
-4. Connect an Android device or start an emulator.
-5. Build and run the application.
+3. Allow Gradle to sync the project.
+4. Build and run the application.
 
-Alternatively, build a debug APK from the project root:
-
-```bash
-./gradlew assembleDebug
-```
-
-On Windows, use:
+On Windows:
 
 ```bat
 gradlew.bat assembleDebug
 ```
 
-The generated APK is normally located at:
+On Linux or macOS:
+
+```bash
+./gradlew assembleDebug
+```
+
+The debug APK is normally generated at:
 
 `app/build/outputs/apk/debug/`
 
-The exact build requirements depend on the project's Gradle configuration and Android SDK setup.
-
-## Requirements
-
-- Android Studio compatible with the project's Gradle and Android Gradle Plugin versions.
-- Android SDK components required by the project.
-- A device or emulator compatible with the application's configured minimum Android version.
-
-## Project Information
-
-- **Name:** Meowsic
-- **Package:** `com.devqissy.nava.music.player`
-- **Developer:** Dev Qissy
-- **Platform:** Android
-- **Language:** Kotlin
-- **UI:** Jetpack Compose
-
 ## Privacy
 
-Review the application's source code and requested permissions to understand how it accesses music files and interacts with your device.
-
-Do not assume that a feature is entirely offline or that no data is transmitted without reviewing the implementation.
+Review the source code and requested permissions to understand how Meowsic accesses music files and uses device features. Do not assume that the application is entirely offline without reviewing its implementation.
 
 ## License
 
-Original Meowsic source code is provided under the terms of the project's [LICENSE](LICENSE).
+Original source code owned by Dev Qissy is subject to the terms in [LICENSE](LICENSE).
 
-Third-party libraries and components remain subject to their respective licenses. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+Third-party components retain their respective licenses. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
 ## Disclaimer
 
-Meowsic is an independently developed project. All third-party names and trademarks belong to their respective owners.
+Meowsic is an independently developed application. All third-party names and trademarks belong to their respective owners.
 
-The application is provided on an "AS IS" basis, to the extent permitted by applicable law.
-
----
-
-**Meowsic — Your music, your sound.**
+The application is provided "AS IS", to the extent permitted by applicable law.
