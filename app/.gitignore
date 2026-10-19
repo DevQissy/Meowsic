@@ -1,0 +1,55 @@
+
+# Local configuration and secrets
+local.properties
+.env
+.env.*
+secrets.properties
+key.properties
+keystore.properties
+*.jks
+*.keystore
+*.p12
+*.pfx
+
+# Android Studio
+.idea/
+*.iml
+captures/
+.navigation/
+
+# Gradle
+.gradle/
+**/build/
+build/
+
+# Android build outputs
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Native build files
+.externalNativeBuild/
+.cxx/
+*.so.debug
+
+# Kotlin
+.kotlin/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# Python helper scripts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Permission Screen -->
+    <string name="permission_required">دسترسی به فایل‌های صوتی لازمه</string>
+    <string name="permission_grant">اجازه دادن</string>
+    <string name="music_note_icon">آیکون نت موسیقی</string>
+
+    <!-- Permissions -->
+    <string name="notification_permission_required">برنامه برای نمایش وضعیت پخش در نوار اعلان، نیاز به دسترسی اعلان دارد</string>
+    <string name="permission_grant_notification">دسترسی اعلان</string>
+
+    <!-- SongListScreen -->
+    <string name="playlist_empty">این پلی‌لیست خالیه</string>
+    <string name="no_songs_found">آهنگی پیدا نشد</string>
+    <string name="songs_in_playlist">%d آهنگ در این لیست</string>
+    <string name="songs_total">%d آهنگ در کل</string>
+    <string name="search">جستجو</string>
+    <string name="more_options">گزینه‌های بیشتر</string>
+    <string name="effects">جلوه‌ها</string>
+    <string name="playlists">پلی‌لیست‌ها</string>
+    <string name="settings">تنظیمات</string>
+    <string name="add_to_playlist">افزودن به پلی‌لیست</string>
+    <string name="remove_from_playlist">حذف از پلی‌لیست</string>
+    <string name="share">اشتراک‌گذاری</string>
+    <string name="share_song">اشتراک‌گذاری آهنگ</string>
+    <string name="delete_song">حذف آهنگ</string>
+    <string name="more">بیشتر</string>
+    <string name="all_filter">همه</string>
+    <string name="add_song_to_playlist_title">افزودن «%s» به پلی‌لیست</string>
+    <string name="create_playlist_first">ابتدا یک پلی‌لیست بسازید</string>
+    <string name="song_in_all_playlists">این آهنگ در همه پلی‌لیست‌ها وجود دارد</string>
+    <string name="close">بستن</string>
+
+    <!-- SettingsScreen -->
+    <string name="settings_title">تنظیمات</string>
+    <string name="back">بازگشت</string>
+    <string name="appearance">ظاهر</string>
+    <string name="display_mode">حالت نمایش</string>
+    <string name="system">سیستم</string>
+    <string name="dark">تاریک</string>
+    <string name="light">روشن</string>
+    <string name="select_theme">انتخاب تم</string>
+    <string name="music_playback">پخش موسیقی</string>
+    <string name="auto_play">پخش خودکار</string>
+    <string name="auto_play_subtitle">هنگام اتصال هدفون پخش شروع شود</string>
+    <string name="stop_on_headphone">توقف با جدا کردن هدفون</string>
+    <string name="stop_on_headphone_subtitle">هنگام جدا کردن هدفون موسیقی متوقف شود</string>
+    <string name="gapless_playback">پخش بدون مکث (Gapless)</string>
+    <string name="gapless_playback_subtitle">حذف سکوت بین آهنگ‌ها</string>
+    <string name="crossfade">Crossfade</string>
+    <string name="crossfade_subtitle">محو شدن تدریجی بین آهنگ‌ها</string>
+    <string name="duration_time">مدت زمان</string>
+    <string name="seconds">%d ثانیه</string>
+    <string name="sound_quality">کیفیت صدا</string>
+    <string name="high_quality_audio">کیفیت صدای بالا</string>
+    <string name="high_quality_audio_subtitle">پردازش صدا با کیفیت بیشتر (مصرف باتری بالاتر)</string>
+    <string name="min_song_duration">حداقل مدت آهنگ</string>
+    <string name="min_song_duration_subtitle">آهنگ‌های کوتاه‌تر نمایش داده نشوند</string>
+    <string name="about">درباره</string>
+    <string name="app_version">نسخه برنامه</string>
+    <string name="developer">توسعه‌دهنده</string>
+    <string name="support">پشتیبانی</string>
+    <string name="support_subtitle">ارسال ایمیل به پشتیبانی</string>
+    <string name="send_email_with">ارسال ایمیل</string>
+
+
+    <!-- Theme Descriptions -->
+    <string name="solar_storm">طوفان خورشیدی</string>
+    <string name="solar_storm_desc">تم گرم و پرانرژی</string>
+    <string name="ocean">اقیانوس</string>
+    <string name="ocean_desc">تم آبی و آرامش‌بخش</string>
+    <string name="galaxy">کهکشان</string>
+    <string name="galaxy_desc">تم بنفش و عمیق</string>
+    <string name="classic">کلاسیک</string>
+    <string name="classic_desc">تم ساده و مینیمال</string>
+
+    <!-- SearchScreen -->
+    <string name="search_results_count">%d نتیجه</string>
+    <string name="search_in_songs">جستجو در آهنگ‌ها</string>
+    <string name="search_hint">نام آهنگ، هنرمند یا آلبوم…</string>
+    <string name="clear_search">پاک کردن</string>
+    <string name="search_prompt">برای جستجو یک عبارت وارد کنید</string>
+    <string name="no_results_found">نتیجه‌ای یافت نشد</string>
+    <string name="search_another_word">کلمه دیگری جستجو کنید</string>
+
+    <!-- PlaylistScreen -->
+    <string name="playlists_title">پلی‌لیست‌ها</string>
+    <string name="new_playlist">پلی‌لیست جدید</string>
+    <string name="no_playlists_yet">هنوز پلی‌لیستی نساختی!</string>
+    <string name="tap_plus_to_start">برای شروع روی + کلیک کن</string>
+    <string name="default_playlist_label">پیش‌فرض</string>
+    <string name="delete">حذف</string>
+    <string name="create_new_playlist">پلی‌لیست جدید</string>
+    <string name="playlist_name_hint">نام پلی‌لیست</string>
+    <string name="create">ساخت</string>
+    <string name="cancel">لغو</string>
+    <string name="delete_playlist_title">حذف پلی‌لیست</string>
+    <string name="delete_playlist_message">آیا از حذف پلی‌لیست «%s» اطمینان داری؟</string>
+    <string name="delete_confirm">حذف</string>
+    <string name="dismiss">انصراف</string>
+
+    <!-- NowPlayingScreen -->
+<!--    <string name="now_playing">در حال پخش</string>-->
+    <string name="sleep_timer">تایمر خواب</string>
+    <string name="sleep_timer_active">تایمر خواب فعال است</string>
+    <string name="playback_speed">سرعت پخش</string>
+    <string name="song_details">جزئیات آهنگ</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="previous">قبلی</string>
+    <string name="play">پخش</string>
+    <string name="pause">توقف</string>
+    <string name="next">بعدی</string>
+    <string name="repeat">Repeat</string>
+    <string name="sleep_timer_title">تایمر خواب</string>
+    <string name="sleep_timer_description">بعد از اتمام زمان، پخش موسیقی متوقف می‌شود</string>
+    <string name="five_minutes">۵ دقیقه</string>
+    <string name="ten_minutes">۱۰ دقیقه</string>
+    <string name="fifteen_minutes">۱۵ دقیقه</string>
+    <string name="thirty_minutes">۳۰ دقیقه</string>
+    <string name="forty_five_minutes">۴۵ دقیقه</string>
+    <string name="one_hour">۱ ساعت</string>
+    <string name="one_and_half_hour">۱.۵ ساعت</string>
+    <string name="two_hours">۲ ساعت</string>
+    <string name="speed_title">سرعت پخش</string>
+    <string name="speed_0_5x">0.5x</string>
+    <string name="speed_0_75x">0.75x</string>
+    <string name="speed_1x">1x (عادی)</string>
+    <string name="speed_1_25x">1.25x</string>
+    <string name="speed_1_5x">1.5x</string>
+    <string name="speed_2x">2x</string>
+    <string name="active_sleep_timer">تایمر خواب فعال</string>
+    <string name="time_remaining">زمان باقی‌مانده: %s</string>
+    <string name="cancel_timer">لغو تایمر</string>
+    <string name="loading">در حال بارگذاری</string>
+    <string name="music_note">نت موسیقی</string>
+    <string name="not_selected">انتخاب نشده</string>
+    <string name="song_detail_title">جزئیات آهنگ</string>
+    <string name="title_label">عنوان</string>
+    <string name="artist_label">هنرمند</string>
+    <string name="album_label">آلبوم</string>
+    <string name="duration_label">مدت زمان</string>
+    <string name="year_label">سال</string>
+    <string name="track_number_label">شماره ترک</string>
+    <string name="format_label">فرمت</string>
+    <string name="unknown">نامشخص</string>
+    <string name="close_button">بستن</string>
+
+    <!-- EqualizerScreen -->
+    <string name="audio_effects">جلوه‌های صوتی</string>
+    <string name="eq_presets">پریست اکولایزر</string>
+    <string name="equalizer">اکولایزر</string>
+    <string name="sound_boost">تقویت صدا</string>
+    <string name="bass_boost">تقویت باس</string>
+    <string name="spatial_audio">فضای صوتی</string>
+    <string name="loudness">تقویت صدا (Loudness)</string>
+    <string name="loudness_gain">+%d mB</string>
+    <string name="reverb">اکو (Reverb)</string>
+    <string name="disabled">غیرفعال</string>
+    <string name="reset_all">بازنشانی همه</string>
+    <string name="normal">نرمال</string>
+    <string name="pop">پاپ</string>
+    <string name="rock">راک</string>
+    <string name="classical">کلاسیک</string>
+    <string name="jazz">جاز</string>
+    <string name="heavy_bass">باس قوی</string>
+    <string name="flat_sound">صدای صاف</string>
+    <string name="no_reverb">بدون اکو</string>
+    <string name="studio">استودیو</string>
+    <string name="small_room">اتاق کوچک</string>
+    <string name="medium_room">اتاق متوسط</string>
+    <string name="large_room">اتاق بزرگ</string>
+    <string name="concert_hall">سالن کنسرت</string>
+    <string name="large_hall">سالن بزرگ</string>
+    <string name="open_space">فضای باز</string>
+    <string name="cave">غار</string>
+
+    <!-- SongItem Component -->
+    <string name="remove_from_playlist_title">حذف از پلی‌لیست</string>
+    <string name="remove_from_playlist_message">آیا مطمئنی که می‌خوای «%s» رو از این پلی‌لیست حذف کنی؟</string>
+    <string name="delete_song_title">حذف آهنگ</string>
+    <string name="delete_song_message">آیا مطمئنی که می‌خوای «%s» رو حذف کنی؟</string>
+
+    <!-- Rate app option in settings -->
+    <string name="menu_rate">امتیاز به برنامه</string>
+    <string name="rate_subtitle">مایکت</string>
+    <string name="rate_myket_not_installed">جهت ثبت امتیاز و نظر، لطفاً فروشگاه مایکت را نصب کنید</string>
+    <string name="equalizer_unavailable" >اکولایزر در دسترس نیست</string>
+    <string name="favorites_playlist">مورد علاقه</string>
+    <string name="add_to_favorites">افزودن به مورد علاقه</string>
+    <string name="remove_from_favorites">حذف از مورد علاقه</string>
+    <string name="minutes_unit">دقیقه</string>
+    <string name="song_already_in_all_playlists">آهنگ از قبل در همهٔ پلی‌لیست‌ها موجود است</string>
+
+    <string name="rate_dialog_title">امتیاز به برنامه</string>
+    <string name="rate_dialog_message">اگر از برنامه Meowsic رضایت دارید با ثبت امتیاز خود در مایکت از ما حمایت کنید. نظرات شما به بهبود کیفیت برنامه کمک خواهد کرد.</string>
+    <string name="rate_dialog_rate">امتیاز دادن</string>
+    <string name="rate_dialog_later">لغو</string>
+
+    <string name="volume_key_service_label">Meowsic – کنترل با دکمه‌های صدا</string>
+    <string name="volume_key_service_description">برای فعال بودن تعویض آهنگ با نگه‌داشتن دکمه‌های صدا هنگام پخش موزیک لازم است.</string>
+
+    <string name="playback_controls_section">کنترل پخش</string>
+    <string name="volume_key_nav_title">تعویض آهنگ با دکمه‌های صدا</string>
+    <string name="volume_key_nav_subtitle">حین پخش موزیک با دکمه های صدا موزیک را تغییر دهید</string>
+    <string name="volume_key_status_active">فعال</string>
+    <string name="volume_key_status_inactive">غیرفعال</string>
+    <string name="volume_key_status_needs_accessibility">سرویس دسترسی‌پذیری هنوز فعال نیست</string>
+    <string name="volume_key_enable_accessibility_hint">برای فعال‌سازی، سرویس Meowsic را در تنظیمات دسترسی‌پذیری روشن کنید</string>
+
+    <string name="reset_all_confirmation">همه افکت‌های صوتی به حالت پیش‌فرض بازگردانده شوند؟</string>
+    <string name="reset_confirm">بازنشانی</string>
+    <string name="no_email_app">برنامه‌ای برای ایمیل پیدا نشد</string>
+
+    <plurals name="songs_total">
+        <item quantity="one">%d آهنگ</item>
+        <item quantity="other">%d آهنگ</item>
+    </plurals>
+    <plurals name="songs_in_playlist">
+        <item quantity="one">%d آهنگ در پلی‌لیست</item>
+        <item quantity="other">%d آهنگ در پلی‌لیست</item>
+    </plurals>
+
+    <string name="permission_denied_permanently">برای اسکن موسیقی‌ها به دسترسی حافظه نیاز است. لطفاً آن را از تنظیمات برنامه فعال کنید.</string>
+    <string name="open_settings">باز کردن تنظیمات</string>
+    <string name="default_playlist_name">موردعلاقه‌ها</string>
+
+    <string name="screen_off_dialog_title">تغییر آهنگ در صفحه‌خاموش</string>
+    <string name="screen_off_unsupported">در نسخه اندروید شما (%1$s) این قابلیت در حالت صفحه‌خاموش در دسترس نیست. تغییر آهنگ فقط در صفحه روشن کار می‌کند.</string>
+    <string name="screen_off_aod_active">AOD (نمایش همیشگی) روی دستگاه شما فعال است. قابلیت در صفحه‌خاموش کار خواهد کرد.</string>
+    <string name="screen_off_aod_disabled">برای کار در صفحه‌خاموش، لطفاً AOD (Always On Display / نمایش همیشگی) را در تنظیمات گوشی روشن کنید. بدون AOD، قابلیت فقط در صفحه روشن کار می‌کند.</string>
+    <string name="open_aod_settings">باز کردن تنظیمات نمایش</string>
+    <string name="screen_off_native_supported">دستگاه شما از این قابلیت در صفحه‌خاموش به‌صورت کامل پشتیبانی می‌کند.</string>
+    <string name="ok">باشه</string>
+
+    <string name="screen_off_test_button">اجرای تست صفحه‌خاموش</string>
+    <string name="screen_off_test_waiting">تست در حال اجراست… صفحه را خاموش کنید، یک دکمهٔ صدا را فشار داده و رها کنید، سپس به برنامه بازگردید.</string>
+    <string name="screen_off_test_supported">تست موفق بود: دستگاه شما هنگام خاموش بودن صفحه، کلیدهای صدا را ارسال می‌کند. این قابلیت کار خواهد کرد.</string>
+    <string name="screen_off_test_failed">هنگام خاموش بودن صفحه هیچ کلید صدایی دریافت نشد. تغییر آهنگ با دکمه‌های صدا در حالت صفحه‌خاموش در این دستگاه پشتیبانی نمی‌شود. همچنان می‌توانید از دکمه‌های هدست یا بلوتوث استفاده کنید.</string>
+
+
+</resources>
